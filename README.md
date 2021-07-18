@@ -5,9 +5,9 @@ React three fiber with shaders example
 
 this app uses following packages 
 
-@react-three/drei
-@react-three/fiber
-babel-plugin-glsl
-glsl-noise
-glslify
-three
+<p>@react-three/drei</p>
+<p>@react-three/fiber</p>
+<p>babel-plugin-glsl</p>
+<p>glsl-noise</p>
+<p>glslify</p>
+<p>three</p>
