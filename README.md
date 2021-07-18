@@ -1,5 +1,5 @@
 # App Demo
-<a href="https://ecstatic-payne-e5e43b.netlify.app/">Demo</a>
+<a href="https://ecstatic-payne-e5e43b.netlify.app/" target="_blank">Demo</a>
 
 React three fiber with shaders example
 
